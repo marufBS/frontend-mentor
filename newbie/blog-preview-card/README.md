@@ -6,12 +6,11 @@ This is my solution to the Blog Preview Card challenge from [Frontend Mentor](ht
 
 ![Blog preview card screenshot](./assets/images/screenshot.png)
 
-> Screenshot placeholder: replace `screenshot.png` with your final project screenshot when ready.
 
 ## Links
 
-- Solution URL: https://github.com/marufBS/frontend-mentor/tree/main/newbie/blog-preview-card
-- Live Site URL: https://blog-preview-card-mbs.vercel.app/
+- Solution URL: (GitHub)[https://github.com/marufBS/frontend-mentor/tree/main/newbie/blog-preview-card]
+- Live Site URL: (Vercel)[https://blog-preview-card-mbs.vercel.app/]
 
 ## Overview
 
