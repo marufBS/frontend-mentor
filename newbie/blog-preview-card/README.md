@@ -9,8 +9,8 @@ This is my solution to the Blog Preview Card challenge from [Frontend Mentor](ht
 
 ## Links
 
-- Solution URL: (GitHub)[https://github.com/marufBS/frontend-mentor/tree/main/newbie/blog-preview-card]
-- Live Site URL: (Vercel)[https://blog-preview-card-mbs.vercel.app/]
+- Solution URL: [GitHub](https://github.com/marufBS/frontend-mentor/tree/main/newbie/blog-preview-card)
+- Live Site URL: [Vercel](https://blog-preview-card-mbs.vercel.app/)
 
 ## Overview
 
