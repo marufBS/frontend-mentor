@@ -1,0 +1,110 @@
+@font-face {
+    font-family: figtree-medium;
+    src: url(./assets/fonts/static/Figtree-Medium.ttf);
+}
+@font-face {
+    font-family: figtree-extrabold;
+    src: url(./assets/fonts/static/Figtree-ExtraBold.ttf);
+}
+@font-face {
+    font-family: figtree-italic;
+    src: url(./assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: figtree-variableFont;
+    src: url(./assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+body{
+    margin:0;
+    padding:0;
+    height: 100vh;
+
+}
+
+/* Layout CSS */
+.page-wrapper{
+    background-color: hsl(47, 88%, 63%);
+    font-family: figtree-medium;
+    display:grid;
+    grid-template-rows: 1fr auto 1fr;
+    min-height: 100vh;
+}
+/* Layout CSS */
+
+.center-container {
+    grid-row:2;
+    justify-self:center;
+    align-self:center;
+}
+.card {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    box-shadow: 5px 5px 0 2px black;
+    border: 1px solid
+}
+@media (max-width: 375px) {
+    .card {
+        width: 100%;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+}
+.card > .image {
+    width: 100%;
+    border-radius: 10px;
+}
+.card > button{
+    background-color:hsl(47, 88%, 63%);
+    font-size:12px;
+    font-family:figtree-extrabold;
+    border:none;
+    padding: 6px 10px;
+    border-radius: 3px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.card > .date{
+    font-size: 10px;
+}
+.card > h1{
+    font-size: 20px;
+}
+
+.card >h1:hover{
+    color:hsl(47, 88%, 63%)
+}
+.card > .description{
+    font-size: 14px;
+    color:#8c8c8c
+}
+.card > .profile{
+    display:flex;
+    align-items: center;
+    gap:10px;
+    font-size:10px;
+    font-family:figtree-extrabold
+}
+.card > .profile > .avatar {
+    width:30px
+}
+
+
+.bottom-container {
+    grid-row:3;
+    align-self: end;
+    justify-self:center;
+    padding-bottom:10px;
+}
+
+.bottom-container > .attribution{
+    /* font-size: 11px;
+    text-align: center; */
+    font-family:figtree-extrabold;
+    color: #8c8c8c
+}
+.bottom-container > .attribution > a{
+    text-decoration: none;
+}
