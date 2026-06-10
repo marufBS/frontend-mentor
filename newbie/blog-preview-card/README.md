@@ -4,7 +4,7 @@ This is my solution to the Blog Preview Card challenge from [Frontend Mentor](ht
 
 ## Screenshot
 
-![Blog preview card screenshot](./screenshot.png)
+![Blog preview card screenshot](./assets/images/screenshot.png)
 
 > Screenshot placeholder: replace `screenshot.png` with your final project screenshot when ready.
 
@@ -71,8 +71,8 @@ Things I may improve later:
 
 ## Author
 
-- GitHub: [@marufBS](https://github.com/marufBS)
-- Frontend Mentor: Add your Frontend Mentor profile URL here
+- [Github Profile](https://github.com/marufBS)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/marufBS)
 
 ## Acknowledgments
 
