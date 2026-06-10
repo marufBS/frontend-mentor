@@ -10,8 +10,8 @@ This is my solution to the Blog Preview Card challenge from [Frontend Mentor](ht
 
 ## Links
 
-- Solution URL: Add your Frontend Mentor solution URL here
-- Live Site URL: Add your live site URL here
+- Solution URL: https://github.com/marufBS/frontend-mentor/tree/main/newbie/blog-preview-card
+- Live Site URL: https://blog-preview-card-mbs.vercel.app/
 
 ## Overview
 
@@ -76,4 +76,4 @@ Things I may improve later:
 
 ## Acknowledgments
 
-Thanks to [Frontend Mentor](https://www.frontendmentor.io/) for providing the challenge design and assets.
+Thanks to [Frontend Mentor](https://www.frontendmentor.io/profile/marufBS/) for providing the challenge design and assets.
