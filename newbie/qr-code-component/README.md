@@ -4,13 +4,13 @@ This is my solution to the QR code component challenge from [Frontend Mentor](ht
 
 ## Screenshot
 
-![QR code component preview](./images/image-qr-code.png)
+![QR code component preview](./assets/images/screenshot.png)
 
 
 ## Links
 
 - Solution URL: [GitHub](https://github.com/marufBS/frontend-mentor/tree/main/newbie/qr-code-component)
-- Live Site URL: [Not deployed yet](#)
+- Live Site URL: [Vercel](https://qr-code-component-mbs.vercel.app/)
 
 ## Overview
 
